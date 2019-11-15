@@ -1,2 +1,2 @@
 # StochasticGradientDescentAlgorithm
- SDG algorithm from the lowest level
+ SDG algorithm from the basic level
